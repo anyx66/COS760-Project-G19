@@ -3,3 +3,4 @@
 *.log
 *.fls
 *.synctex.gz
+*.synctex(busy)
